@@ -12,14 +12,5 @@ Hi, I'm Tom,  a french developer based in Paris. A few years back, during my lin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=T0MLE&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T0MLE&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=T0MLE&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=T0MLE&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=T0MLE&icon=5&color=11)](https://visitcount.itsvg.in)
